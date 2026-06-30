@@ -493,13 +493,10 @@ Priorize por impacto × facilidade. Responda em português do Brasil.
 </p>
 
 <p align="center">
-  <a href="https://notebooklm.google.com/notebook/9a309eff-4994-4f23-8ba4-69947d243893">
-    <img src="https://img.shields.io/badge/NotebookLM-Acesse%20o%20Notebook-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"/>
-  </a>
   <a href="https://www.linkedin.com/in/ezequielgomesrocha/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ezequiel.gomes@Live.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>

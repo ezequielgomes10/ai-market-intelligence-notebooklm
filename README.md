@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NotebookLM-Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"/>
+  <a href="https://notebooklm.google.com/notebook/9a309eff-4994-4f23-8ba4-69947d243893">
+    <img src="https://img.shields.io/badge/NotebookLM-Acesse%20o%20Notebook-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"/>
+  </a>
   <img src="https://img.shields.io/badge/Market%20Intelligence-Data%20Driven-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Market Intelligence"/>
   <img src="https://img.shields.io/badge/Business%20Analytics-Insights-00C853?style=for-the-badge&logo=powerbi&logoColor=white" alt="Business Analytics"/>
   <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge" alt="Status"/>
@@ -54,14 +56,8 @@ Este projeto constrói um **Caderno Temático no Google NotebookLM** focado em *
 4. Construir um framework reutilizável de análise de mercado
 5. Documentar o processo de aprendizagem — incluindo erros e iterações
 
-### 🖥️ Demonstração do Projeto
+### 🖥️ Demonstração do Workspace
 
-#### 1. Criação do Repositório GitHub
-<p align="center">
-  <img src="assets/github_repo.png" alt="Criação do repositório no GitHub" width="80%">
-</p>
-
-#### 2. Interface do Workspace no NotebookLM
 <p align="center">
   <img src="assets/notebooklm_interface.png" alt="Interface final do projeto no NotebookLM" width="90%">
 </p>
@@ -497,10 +493,13 @@ Priorize por impacto × facilidade. Responda em português do Brasil.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://notebooklm.google.com/notebook/9a309eff-4994-4f23-8ba4-69947d243893">
+    <img src="https://img.shields.io/badge/NotebookLM-Acesse%20o%20Notebook-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NotebookLM"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ezequielgomesrocha/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="mailto:ezequiel.gomes@Live.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
 </p>

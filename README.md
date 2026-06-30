@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge" alt="Status"/>
 </p>
 
-<h1 align="center">🧠 IA para Análise de Mercado</h1>
+<h1 align="center">  IA para Análise de Mercado</h1>
 <h3 align="center">Geração de Insights Acionáveis com NotebookLM</h3>
 
 <p align="center">
